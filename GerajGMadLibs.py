@@ -1,0 +1,11 @@
+color = input("Enter a color: ")
+location = input("Enter your location: ")
+food = input("Enter a food: ")
+animal = input("Enter an animal: ")
+name = input("Enter your name: ")
+
+print(name + " is eating " + food)
+print("while driving to " + location)
+print("in a " + color + " cab")
+print(" with a " + animal)
+print(" wearing a " + color + " jacket") 
